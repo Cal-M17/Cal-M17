@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Calum 👋
 
-<!--
-**flyingbison17/flyingbison17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring frontend developer, minimalist, and coffee enjoyer.
 
-Here are some ideas to get you started:
+To date I have been working through the DfE skills for life bootcamp provider by HyperionDev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the course of the bootcamp I have got to learn some core frontend technologies, namely HTML, CSS, JavaScript, & React.
+Here is a link to the final capstone project of teh bootcamp, a hangman game created in react and styled with Bootstrap:
+
+https://github.com/flyingbison17/hangman
+
+
+
+
